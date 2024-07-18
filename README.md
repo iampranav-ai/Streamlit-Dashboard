@@ -18,6 +18,7 @@ This interactive dashboard visualizes international football match results from 
 
 ## Installation
 
+0. Ensure you have Python installed on your system
 1. Clone this repository
 2. Install required packages:
 ```
@@ -25,4 +26,7 @@ streamlit
 pandas
 plotly
 ```
-3. Run ```streamlit run codeStreamlitFootball.py```
+3. To Run in CMD or Terminal ```streamlit run codeStreamlitFootball.py```
+![image](https://github.com/user-attachments/assets/f99316be-ab89-4902-8cb6-4d85d793c06f)
+4. Go to http://localhost:8501 to see the dashboard in your browser
+
